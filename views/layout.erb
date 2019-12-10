@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html style='max-width:100%;overflow-x:hidden;'>
+<head>
+  <title>Switch Steals</title>
+  <link rel='shortcut icon' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'>
+	<link rel='icon' sizes='16x16 32x32 64x64' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'>
+  <!--Responsive Meta Tag-->
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'/>  
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body style='background-color:#DFF1F7;'>
+
+  <div class='container'>
+    <!-- Header -->
+    <div class="jumbotron" style='background-color:#DFF1F7;text-align:center;'>
+      <img src='img/switch_steals.png' style='height:10em;'>
+      <p class="lead">What's New | Week of 12/6</p>
+    </div>
+
+    <!-- Eshop -->
+    <div class='row'>
+      <% @data_hash.each do |hash| %>
+      <div class='col' style=''>
+        <div class='card' style='width:11rem;border:none;'>
+          <div class='card-body' style='align-self:center;padding:1rem;background-color:#DFF1F7;'>
+            <img style='max-width:10em;' src=<%= hash['art'] %>>
+            <h6 class='card-title'><%= hash['title'] %></h6>
+            <div style='font-size:13px;border-top:0.75px solid lightgray;padding-top:inherit;'>
+              <span><b>$<%= hash['sale_price'] %></b></span>
+              <span style='color:#D22A43'>(<%= hash['discount'] %>)</span>
+              <span style='text-decoration:line-through;'>$<%= hash['msrp'] %></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <% end %>
+    </div>
+
+    <!-- Footer
+    <p>Image credit: https://dribbble.com/Sameer_Verma</p>
+    -->
+  </div>
+  <!-- JQuery -->
+  <script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+  <!-- Bootstrap -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
