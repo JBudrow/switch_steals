@@ -22,7 +22,7 @@ GEM
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    rack (2.0.7)
+    rack (2.0.8)
     rack-protection (2.0.7)
       rack
     rspec (3.9.0)
@@ -52,7 +52,6 @@ GEM
       rack-protection (= 2.0.7)
       sinatra (= 2.0.7)
       tilt (~> 2.0)
-    sinatra-initializers (0.1.4)
     tilt (2.0.10)
 
 PLATFORMS
@@ -68,7 +67,6 @@ DEPENDENCIES
   shotgun
   sinatra
   sinatra-contrib
-  sinatra-initializers
 
 RUBY VERSION
    ruby 2.5.1p57
