@@ -78,19 +78,6 @@ helpers do
     arr 
   end 
 
-  # refine games with same title
-  # [8] pry(#<Sinatra::Application>)> NintendoEshop::GamesList.by_title('ACA NEOGEO SAMURAI SHODOWN III').count
-  # => 2
-  # [9] pry(#<Sinatra::Application>)> NintendoEshop::GamesList.by_title('ACA NEOGEO SAMURAI SHODOWN II').count
-  # => 2
-  # [10] pry(#<Sinatra::Application>)> NintendoEshop::GamesList.by_title('ACA NEOGEO SAMURAI SHODOWN I').count
-  # => 3
-  # will refer to the last one everytime ie III
-  # temporarily, manually add in the previous games
-  # `listings` is calling first on NintendoEshop::GameList, hence always getting the first of the game series
-  def hmm_name_for_this_method 
-  end 
-
   # include to json
   def meta_critic 
   end 
