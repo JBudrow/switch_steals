@@ -5,15 +5,17 @@ require 'nokogiri'
 require 'nintendo_eshop'
 require 'pry'
 
-NintendoEshop::Game.class_eval do
-  def refresh_object(result)
-    self.art = "https://www.nintendo.com#{result.dig(:boxArt)}"
-    self.id = result.dig(:nsuid)
-    self.msrp = result.dig(:msrp)
-    self.sale_price = result.dig(:salePrice)
-    self.title = result.dig(:title)
-  end
-end 
+# overwrite nintendo_eshop method due to some responses have nil dates 
+# `self.release_date = Date.parse(result.dig(:releaseDateMask))`
+# NintendoEshop::Game.class_eval do
+#   def refresh_object(result)
+#     self.art = "https://www.nintendo.com#{result.dig(:boxArt)}"
+#     self.id = result.dig(:nsuid)
+#     self.msrp = result.dig(:msrp)
+#     self.sale_price = result.dig(:salePrice)
+#     self.title = result.dig(:title)
+#   end
+# end 
 
 helpers do 
   # inherit module, explicitly set client values
@@ -90,7 +92,7 @@ helpers do
 end 
 
 get '/' do 
-  file = File.read('data/eshop_sale_20191209.json')
+  file = File.read('data/eshop_sale_20200105.json')
   @data_hash = JSON.parse(file)
    
   erb :layout
