@@ -7,15 +7,15 @@ require 'pry'
 
 # overwrite nintendo_eshop method due to some responses have nil dates 
 # `self.release_date = Date.parse(result.dig(:releaseDateMask))`
-# NintendoEshop::Game.class_eval do
-#   def refresh_object(result)
-#     self.art = "https://www.nintendo.com#{result.dig(:boxArt)}"
-#     self.id = result.dig(:nsuid)
-#     self.msrp = result.dig(:msrp)
-#     self.sale_price = result.dig(:salePrice)
-#     self.title = result.dig(:title)
-#   end
-# end 
+NintendoEshop::Game.class_eval do
+  def refresh_object(result)
+    self.art = "https://www.nintendo.com#{result.dig(:boxArt)}"
+    self.id = result.dig(:nsuid)
+    self.msrp = result.dig(:msrp)
+    self.sale_price = result.dig(:salePrice)
+    self.title = result.dig(:title)
+  end
+end 
 
 helpers do 
   # inherit module, explicitly set client values
@@ -73,7 +73,7 @@ helpers do
   def eshop_games 
     arr = [] 
     listings.each do |g| 
-      if g.sale_price 
+      if g&.sale_price
         arr << g 
       end 
     end 
@@ -92,7 +92,7 @@ helpers do
 end 
 
 get '/' do 
-  file = File.read('data/eshop_sale_20200105.json')
+  file = File.read('data/eshop_sale_20200212.json')
   @data_hash = JSON.parse(file)
    
   erb :layout

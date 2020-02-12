@@ -1,0 +1,3034 @@
+[
+  {
+    "title": "1979 Revolution: Black Friday",
+    "id": "70010000010807",
+    "msrp": 11.99,
+    "sale_price": 3.59,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/1/1979-revolution-black-friday-switch/Switch_1979Revolution_box_eShop.png"
+  },
+  {
+    "title": "2048 Battles",
+    "id": "70010000021109",
+    "msrp": 3.99,
+    "sale_price": 1.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/2/2048-battles-switch/Switch_2048Battles_box_eShop.png"
+  },
+  {
+    "title": "39 Days to Mars",
+    "id": "70010000015339",
+    "msrp": 14.99,
+    "sale_price": 10.04,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/3/39-days-to-mars-switch/Switch_39DaysToMars_box_eShop.png"
+  },
+  {
+    "title": "3D Billiards - Pool & Snooker",
+    "id": "70010000015710",
+    "msrp": 19.99,
+    "sale_price": 15.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/3/3d-billiards-pool-and-snooker-switch/Switch_3DBilliards-PoolSnooker_box_eShop.png"
+  },
+  {
+    "title": "3D MiniGolf",
+    "id": "70010000002619",
+    "msrp": 19.99,
+    "sale_price": 15.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/3/3d-minigolf-switch/Switch_3DMiniGolf_box_eShop.png"
+  },
+  {
+    "title": "8-Ball Pocket",
+    "id": "70010000022638",
+    "msrp": 5.99,
+    "sale_price": 2.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/8/8-ball-pocket-switch/Switch_8Ball_box_eShop.png"
+  },
+  {
+    "title": "99Moves",
+    "id": "70010000015484",
+    "msrp": 2.99,
+    "sale_price": 0.98,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/9/99moves-switch/Switch_99Moves_box_eShop.png"
+  },
+  {
+    "title": "99Seconds",
+    "id": "70010000015282",
+    "msrp": 2.99,
+    "sale_price": 0.98,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/9/99seconds-switch/Switch_99Seconds_box_eShop.png"
+  },
+  {
+    "title": "A Ch'ti Bundle",
+    "id": "70010000015686",
+    "msrp": 15.99,
+    "sale_price": 4.79,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/a-chti-bundle-switch/Switch_AChtiBundle_box_eShop.png"
+  },
+  {
+    "title": "Adrenaline Rush - Miami Drive",
+    "id": "70010000021232",
+    "msrp": 3.99,
+    "sale_price": 1.59,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/adrenaline-rush-miami-drive-switch/Switch_AdrenalineRushMiamiDrive_box_eShop.png"
+  },
+  {
+    "title": "Agent A: A puzzle in disguise",
+    "id": "70010000008805",
+    "msrp": 14.99,
+    "sale_price": 2.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/agent-a-a-puzzle-in-disguise-switch/Switch_AgentA_box_eShop.png"
+  },
+  {
+    "title": "Agony",
+    "id": "70010000016479",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/agony-switch/Switch_Agony_box_eShop.png"
+  },
+  {
+    "title": "Air Hockey",
+    "id": "70010000008543",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/air-hockey-switch/Switch_AirHockey_box_eShop.png"
+  },
+  {
+    "title": "Alteric",
+    "id": "70010000005342",
+    "msrp": 4.99,
+    "sale_price": 1.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/alteric-switch/Switch_Alteric_box_eShop.png"
+  },
+  {
+    "title": "Among the Sleep - Enhanced Edition",
+    "id": "70010000015055",
+    "msrp": 24.99,
+    "sale_price": 12.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/among-the-sleep-enhanced-edition-switch/Switch_AmongTheSleep_box.png"
+  },
+  {
+    "title": "Animal Hunter Z",
+    "id": "70010000015220",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/animal-hunter-z-switch/Switch_AnimalHunterZ_box_eShop.png"
+  },
+  {
+    "title": "ASCENDANCE",
+    "id": "70010000017383",
+    "msrp": 5.99,
+    "sale_price": 0.99,
+    "discount": "-83%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/ascendance-switch/Switch_ASCENDANCE_box_eShop.png"
+  },
+  {
+    "title": "Asdivine Dios",
+    "id": "70010000016966",
+    "msrp": 12.99,
+    "sale_price": 9.09,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/asdivine-dios-switch/Switch_AsdivineDios_box_eShop.png"
+  },
+  {
+    "title": "Asdivine Hearts",
+    "id": "70010000008548",
+    "msrp": 6.49,
+    "sale_price": 12.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/asdivine-hearts-switch/Switch_AsdivineHearts_box_eShop.png"
+  },
+  {
+    "title": "Asdivine Hearts II",
+    "id": "70010000015887",
+    "msrp": 12.99,
+    "sale_price": 6.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/asdivine-hearts-2-switch/Switch_AsdivineHearts2_box_eShop.png"
+  },
+  {
+    "title": "Asdivine Menace",
+    "id": "70010000021426",
+    "msrp": 12.99,
+    "sale_price": 9.09,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/asdivine-menace-switch/Switch_AsdivineMenace_box_eShop.png"
+  },
+  {
+    "title": "Assassin's Creed III Remastered",
+    "id": "70010000010684",
+    "msrp": 39.99,
+    "sale_price": 19.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/assassins-creed-3-remastered-switch/Switch_AC3_box.png"
+  },
+  {
+    "title": "Assassin’s Creed®: The Rebel Collection",
+    "id": "70010000019188",
+    "msrp": 39.99,
+    "sale_price": 29.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/a/assassins-creed-the-rebel-collection-switch/Switch_AssassinsCreed-Rebel_box.png"
+  },
+  {
+    "title": "Bad Dream: Coma",
+    "id": "70010000016201",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bad-dream-coma-switch/Switch_BadDream-Coma_box_eShop.png"
+  },
+  {
+    "title": "Bad Dream: Fever",
+    "id": "70010000017838",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bad-dream-fever-switch/Switch_BadDreamFever_box_eShop.png"
+  },
+  {
+    "title": "Barbarous: Tavern of Emyr",
+    "id": "70010000026595",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/barbarous-tavern-of-emyr-switch/Switch_Barbarous_box_eShop.png"
+  },
+  {
+    "title": "BATTLE & CRASH",
+    "id": "70010000020934",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/battle-and-crash-switch/Switch_BattleAndCrash_box_eShop.png"
+  },
+  {
+    "title": "Battle Group 2",
+    "id": "70010000012365",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/battle-group-2-switch/Switch_BattleGroup2_box_eShop.png"
+  },
+  {
+    "title": "BATTOJUTSU",
+    "id": "70010000025992",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/battojutsu-switch/Switch_Battojutsu_box_eShop.png"
+  },
+  {
+    "title": "Bedtime Blues",
+    "id": "70010000016595",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bedtime-blues-switch/Switch_BedtimeBlues_box_eShop.png"
+  },
+  {
+    "title": "BINGO for Nintendo Switch",
+    "id": "70010000004602",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bingo-for-nintendo-switch/Switch_BINGO_box_eShop.png"
+  },
+  {
+    "title": "Biolab Wars",
+    "id": "70010000025533",
+    "msrp": 1.99,
+    "sale_price": 1.33,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/biolab-wars-switch/Switch_BiolabWars_box_eShop.png"
+  },
+  {
+    "title": "Black Paradox",
+    "id": "70010000018095",
+    "msrp": 14.99,
+    "sale_price": 5.09,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/black-paradox-switch/Switch_BlackParadox_box_eShop.png"
+  },
+  {
+    "title": "Blacksea Odyssey",
+    "id": "70010000014426",
+    "msrp": 12.99,
+    "sale_price": 3.24,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/blacksea-odyssey-switch/Switch_BlackseaOdyssey_box_eShop.png"
+  },
+  {
+    "title": "Bleed 2",
+    "id": "70010000004361",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bleed-2-switch/Switch_Bleed2_box_eShop.png"
+  },
+  {
+    "title": "Block-a-Pix Deluxe",
+    "id": "70010000016364",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/block-a-pix-deluxe-switch/Switch_BlockaPixDeluxe_box_eShop.png"
+  },
+  {
+    "title": "Blossom Tales: The Sleeping King",
+    "id": "70010000002606",
+    "msrp": 14.99,
+    "sale_price": 7.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/blossom-tales-the-sleeping-king-switch/Switch_BlossomTales-SleepingKing_box_eShop.png"
+  },
+  {
+    "title": "Bomb Chicken",
+    "id": "70010000008564",
+    "msrp": 14.99,
+    "sale_price": 8.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bomb-chicken-switch/Switch_BombChicken_box_eShop.png"
+  },
+  {
+    "title": "Boreal Blade",
+    "id": "70010000010456",
+    "msrp": 19.99,
+    "sale_price": 5.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/boreal-blade-switch/Switch_BorealBlade_box_eShop.png"
+  },
+  {
+    "title": "Bot Vice",
+    "id": "70010000015897",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bot-vice-switch/Switch_BotVice_box_eShop.png"
+  },
+  {
+    "title": "Breathing Fear",
+    "id": "70010000025757",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/breathing-fear-switch/Switch_BreathingFear_box_eShop.png"
+  },
+  {
+    "title": "Bubble Cats Rescue",
+    "id": "70010000021107",
+    "msrp": 3.99,
+    "sale_price": 1.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/bubble-cats-rescue-switch/Switch_BubbleCatsRescue_box_eShop.png"
+  },
+  {
+    "title": "Build a Bridge!",
+    "id": "70010000012743",
+    "msrp": 14.99,
+    "sale_price": 2.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/b/build-a-bridge-switch/Switch_BuildABridge_box_eShop.png"
+  },
+  {
+    "title": "Capcom Beat 'Em Up Bundle",
+    "id": "70010000013508",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/capcom-beat-em-up-bundle-switch/Switch_CapcomBeatEmUpBundle_box_eShop.png"
+  },
+  {
+    "title": "Carnival Games",
+    "id": "70010000005282",
+    "msrp": 39.99,
+    "sale_price": 9.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/carnival-games-switch/Switch_CarnivalGames_box.png"
+  },
+  {
+    "title": "Cars 3: Driven to Win",
+    "id": "70010000000470",
+    "msrp": 39.99,
+    "sale_price": 9.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/cars-3-driven-to-win-switch/Switch_Cars3-DrivenToWin_box.png"
+  },
+  {
+    "title": "Castle of Heart",
+    "id": "70010000000911",
+    "msrp": 14.99,
+    "sale_price": 1.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/castle-of-heart-switch/Switch_CastleOfHeart_box_eShop.png"
+  },
+  {
+    "title": "Caterpillar Royale",
+    "id": "70010000018034",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/caterpillar-royale-switch/Switch_Caterpillar-Royale_box-eShop.png"
+  },
+  {
+    "title": "Children of Morta",
+    "id": "70010000013871",
+    "msrp": 21.99,
+    "sale_price": 15.39,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/children-of-morta-switch/Switch_CoM_box.png"
+  },
+  {
+    "title": "Sid Meier's Civilization VI",
+    "id": "70010000013704",
+    "msrp": 59.99,
+    "sale_price": 35.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/civilization-vi-switch/Switch_Civ6_box.png"
+  },
+  {
+    "title": "Classic Games Collection Vol.1",
+    "id": "70010000021111",
+    "msrp": 4.99,
+    "sale_price": 1.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/classic-games-collection-vol-1-switch/Switch_ClassicGamesCollection-Vol1_box_eShop.png"
+  },
+  {
+    "title": "Clock Simulator",
+    "id": "70010000015610",
+    "msrp": 3.99,
+    "sale_price": 0.39,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/clock-simulator-switch/Switch_ClockSimulator_box_eShop.png"
+  },
+  {
+    "title": "Clumsy Rush",
+    "id": "70010000026834",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/clumsy-rush-switch/Switch_ClumsyRush_box_eShop.png"
+  },
+  {
+    "title": "Collide-a-Ball 2",
+    "id": "70010000021873",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/collide-a-ball-2-switch/Switch_CollideaBall2_box_eShop.png"
+  },
+  {
+    "title": "Cooking Tycoons - 3 in 1 Bundle",
+    "id": "70010000025984",
+    "msrp": 12.99,
+    "sale_price": 9.74,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/cooking-tycoons-3-in-1-bundle-switch/Switch_CookingTycoons_box_eShop.png"
+  },
+  {
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "id": "70010000002090",
+    "msrp": 39.99,
+    "sale_price": 19.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crash-bandicoot-n-sane-trilogy-switch/Switch_CrashBandicoot-NSaneTrilogy_box.png"
+  },
+  {
+    "title": "Crash Team Racing Nitro-Fueled",
+    "id": "70010000016211",
+    "msrp": 39.99,
+    "sale_price": 23.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crash-team-racing-nitro-fueled-switch/Switch_CrashTeamRacing_box.png"
+  },
+  {
+    "title": "Crazy Zen Mini Golf",
+    "id": "70010000018019",
+    "msrp": 4.99,
+    "sale_price": 1.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crazy-zen-mini-golf-switch/Switch_CrazyZenMiniGolf_box_eShop.png"
+  },
+  {
+    "title": "Crush Your Enemies!",
+    "id": "70010000004803",
+    "msrp": 8.0,
+    "sale_price": 0.8,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crush-your-enemies-switch/Switch_CrushYourEnemies_box_eShop.png"
+  },
+  {
+    "title": "Crypt of the NecroDancer: Nintendo Switch Edition",
+    "id": "70010000003787",
+    "msrp": 19.99,
+    "sale_price": 3.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crypt-of-the-necrodancer-nintendo-switch-edition-switch/Switch_CryptOfTheNecroDancer_box_eShop.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"
+  },
+  {
+    "title": "Crypt of the Serpent King",
+    "id": "70010000019611",
+    "msrp": 2.99,
+    "sale_price": 0.99,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/crypt-of-the-serpent-king-switch/Switch_CryptoftheSerpentKing_box_eShop.png"
+  },
+  {
+    "title": "Cyber Protocol",
+    "id": "70010000019300",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/c/cyber-protocol-switch/Switch_CyberProtocol_box_eShopv2.png"
+  },
+  {
+    "title": "Dark Veer",
+    "id": "70010000024581",
+    "msrp": 4.99,
+    "sale_price": 1.24,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dark-veer-switch/Switch_DarkVeer_box_eShop.png"
+  },
+  {
+    "title": "Darts Up",
+    "id": "70010000011868",
+    "msrp": 2.99,
+    "sale_price": 0.98,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/darts-up-switch/Switch_DartsUp_box_eShop.png"
+  },
+  {
+    "title": "DayD: Through Time",
+    "id": "70010000018032",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_CA/games/switch/d/dayd-through-time-switch/Switch_DayDThroughTime_box_eShop.png"
+  },
+  {
+    "title": "Dead Cells",
+    "id": "70010000007706",
+    "msrp": 24.99,
+    "sale_price": 17.49,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dead-cells-switch/Switch_DeadCells_box.png"
+  },
+  {
+    "title": "Dead Dungeon",
+    "id": "70010000019484",
+    "msrp": 4.99,
+    "sale_price": 0.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dead-dungeon-switch/Switch_DeadDungeon_box_eShop.png"
+  },
+  {
+    "title": "Deep Ones",
+    "id": "70010000005806",
+    "msrp": 4.99,
+    "sale_price": 1.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/deep-ones-switch/Switch_DeepOnes_box_eShop.png"
+  },
+  {
+    "title": "Demon Pit",
+    "id": "70010000022738",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/demon-pit-switch/Switch_DemonPit_box_eShop.png"
+  },
+  {
+    "title": "Deployment",
+    "id": "70010000011236",
+    "msrp": 9.99,
+    "sale_price": 2.49,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/deployment-switch/Switch_Deployment_box_eShop.png"
+  },
+  {
+    "title": "Devil May Cry 2",
+    "id": "70010000017206",
+    "msrp": 19.99,
+    "sale_price": 14.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/devil-may-cry-2-switch/Switch_DevilMayCry2_box_eShop.png"
+  },
+  {
+    "title": "Dexteritrip",
+    "id": "70010000015533",
+    "msrp": 6.99,
+    "sale_price": 1.99,
+    "discount": "-72%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dexteritrip-switch/Switch_Dexteritrip_box_eShop.png"
+  },
+  {
+    "title": "Diablo III: Eternal Collection",
+    "id": "70010000012305",
+    "msrp": 59.99,
+    "sale_price": 39.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/diablo-3-switch/Switch_D3_box.png"
+  },
+  {
+    "title": "Digerati Indie Bundle: INK & HackyZack",
+    "id": "70010000013571",
+    "msrp": 14.99,
+    "sale_price": 2.24,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/digerati-indie-bundle-ink-and-hackyzack-switch/Switch_Digerati-Ink-HackyZack_box_eShop.png"
+  },
+  {
+    "title": "Diggerman",
+    "id": "70010000015174",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/diggerman-switch/Switch_Diggerman_box_eShop.png"
+  },
+  {
+    "title": "Don't Die, Mr Robot!",
+    "id": "70010000009764",
+    "msrp": 8.99,
+    "sale_price": 1.34,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dont-die-mr-robot-switch/Switch_DontDieMrRobot_box_eShop.png"
+  },
+  {
+    "title": "Dragon Pinball",
+    "id": "70010000019070",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dragon-pinball-switch/Switch_DragonPinball_box_eShop.png"
+  },
+  {
+    "title": "Dragon's Dogma: Dark Arisen",
+    "id": "70010000009788",
+    "msrp": 29.99,
+    "sale_price": 19.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dragons-dogma-dark-arisen-switch/Switch_DragonsDogmaDarkArisen_box.png"
+  },
+  {
+    "title": "Dragon Snakes",
+    "id": "70010000019673",
+    "msrp": 3.99,
+    "sale_price": 1.79,
+    "discount": "-55%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dragon-snakes-switch/Switch_DragonSnakes_box_eShop.png"
+  },
+  {
+    "title": "Dream Alone",
+    "id": "70010000011650",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dream-alone-switch/Switch_DreamAlone_box_eShopv2.png"
+  },
+  {
+    "title": "Drift Legends",
+    "id": "70010000012368",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/drift-legends-switch/Switch_DriftLegends_box_eShop.png"
+  },
+  {
+    "title": "Dungeons & Aliens",
+    "id": "70010000017333",
+    "msrp": 3.99,
+    "sale_price": 0.39,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dungeons-and-aliens-switch/Switch_DungeonsAliens_box_eShop.png"
+  },
+  {
+    "title": "Dusty Raging Fist",
+    "id": "70010000001147",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dusty-raging-fist-switch/Switch_DustyRagingFist_box_eShop.png"
+  },
+  {
+    "title": "Dyna Bomb",
+    "id": "70010000019422",
+    "msrp": 1.99,
+    "sale_price": 1.59,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/dyna-bomb-switch/Switch_DynaBomb_box_eShop.png"
+  },
+  {
+    "title": "Energy Balance",
+    "id": "70010000005183",
+    "msrp": 2.99,
+    "sale_price": 1.01,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/e/energy-balance-switch/Switch_EnergyBalance_box_eShop.png"
+  },
+  {
+    "title": "Estiman",
+    "id": "70010000016002",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/e/estiman-switch/Switch_Estiman_box_eShop.png"
+  },
+  {
+    "title": "Ethan: Meteor Hunter",
+    "id": "70010000015012",
+    "msrp": 9.99,
+    "sale_price": 2.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/e/ethan-meteor-hunter-switch/Switch_EthanMeteorHunter_box_eShop.png"
+  },
+  {
+    "title": "EXORDER",
+    "id": "70010000011657",
+    "msrp": 12.99,
+    "sale_price": 1.29,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/e/exorder-switch/Switch_EXORDER_box_eShop.png"
+  },
+  {
+    "title": "Fall of Light: Darkest Edition",
+    "id": "70010000013524",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/fall-of-light-darkest-edition-switch/Switch_FallOfLight-DarkestEdition_box_eShop.png"
+  },
+  {
+    "title": "Farabel",
+    "id": "70010000024863",
+    "msrp": 9.99,
+    "sale_price": 2.49,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/farabel-switch/Switch_Farabel_box_eShop.png"
+  },
+  {
+    "title": "Feudal Alloy",
+    "id": "70010000006142",
+    "msrp": 16.99,
+    "sale_price": 11.89,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/feudal-alloy-switch/Switch_FeudalAlloy_box_eShop.png"
+  },
+  {
+    "title": "Fifty Words by POWGI",
+    "id": "70010000022330",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/fifty-words-by-powgi-switch/Switch_FiftyWords_box_eShop.png"
+  },
+  {
+    "title": "Figment",
+    "id": "70010000007275",
+    "msrp": 19.99,
+    "sale_price": 6.99,
+    "discount": "-65%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/figment-switch/Switch_Figment_box_eShop.png"
+  },
+  {
+    "title": "Fill-a-Pix: Phil's Epic Adventure",
+    "id": "70010000009343",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/fill-a-pix-phils-epic-adventure-switch/Switch_FillAPix_box_eShop.png"
+  },
+  {
+    "title": "Fishing Universe Simulator",
+    "id": "70010000016534",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/fishing-universe-simulator-switch/Switch_FishingUniverseSimulator_box_eShop.png"
+  },
+  {
+    "title": "Fly O'Clock",
+    "id": "70010000012751",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/fly-o-clock-switch/Switch_FlyOClock_box_eShop.png"
+  },
+  {
+    "title": "Food Truck Tycoon",
+    "id": "70010000016273",
+    "msrp": 4.99,
+    "sale_price": 2.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/food-truck-tycoon-switch/Switch_FoodTruckTycoon_box_eShop.png"
+  },
+  {
+    "title": "FRAMED Collection",
+    "id": "70010000008808",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/framed-collection-switch/Switch_FRAMEDCollection_box_eShop.png"
+  },
+  {
+    "title": "Frederic 2: Evil Strikes Back",
+    "id": "70010000001745",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/frederic-2-evil-strikes-back-switch/Switch_Frederic2_box_eShop.png"
+  },
+  {
+    "title": "Frederic: Resurrection of Music",
+    "id": "70010000001902",
+    "msrp": 5.99,
+    "sale_price": 0.59,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/frederic-resurrection-of-music-switch/Switch_FredericResurrectionOfMusic_box_eShop.png"
+  },
+  {
+    "title": "Freecell Solitaire Deluxe",
+    "id": "70010000021902",
+    "msrp": 8.99,
+    "sale_price": 4.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/freecell-solitaire-deluxe-switch/Switch_Freecell_box_eShop.png"
+  },
+  {
+    "title": "Frost",
+    "id": "70010000011240",
+    "msrp": 12.99,
+    "sale_price": 3.89,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/f/frost-switch/Switch_Frost_box_eShop.png"
+  },
+  {
+    "title": "Gabbuchi",
+    "id": "70010000015505",
+    "msrp": 7.99,
+    "sale_price": 5.59,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/gabbuchi-switch/Switch_Gabbuchi_box_eShop.png"
+  },
+  {
+    "title": "Glaive: Brick Breaker",
+    "id": "70010000007442",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/glaive-brick-breaker-switch/Switch_GlaiveBrickBreaker_box_eShop.png"
+  },
+  {
+    "title": "Goetia",
+    "id": "70010000004799",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/goetia-switch/Switch_Goetia_box_eShop.png"
+  },
+  {
+    "title": "Go! Fish Go!",
+    "id": "70010000023426",
+    "msrp": 1.99,
+    "sale_price": 1.39,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/go-fish-go-switch/Switch_GoFishGo_box_eShop.png"
+  },
+  {
+    "title": "Golem Gates",
+    "id": "70010000017887",
+    "msrp": 24.99,
+    "sale_price": 8.49,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/golem-gates-switch/Switch_GolemGates_box_eShop.png"
+  },
+  {
+    "title": "Golf Peaks",
+    "id": "70010000016666",
+    "msrp": 4.99,
+    "sale_price": 2.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/golf-peaks-switch/Switch_GolfPeaks_box_eShop.png"
+  },
+  {
+    "title": "Grab Lab",
+    "id": "70010000016056",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/grab-lab-switch/Switch_GrabLab_box_eShop.png"
+  },
+  {
+    "title": "Grand Prix Rock 'N Racing",
+    "id": "70010000001397",
+    "msrp": 9.99,
+    "sale_price": 2.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/grand-prix-rock-n-racing-switch/Switch_GrandPrixRockNRacing_box_eShop.png"
+  },
+  {
+    "title": "Grave Keeper",
+    "id": "70010000021100",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/grave-keeper-switch/Switch_GraveKeeper_box_eShop.png"
+  },
+  {
+    "title": "Gunpowder on The Teeth: Arcade",
+    "id": "70010000021551",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/gunpowder-on-the-teeth-arcade-switch/Switch_GunpowderonTheTeethArcade_box_eShop.png"
+  },
+  {
+    "title": "Gurgamoth",
+    "id": "70010000021116",
+    "msrp": 9.99,
+    "sale_price": 1.49,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/g/gurgamoth-switch/Switch_Gurgamoth_box_eShop.png"
+  },
+  {
+    "title": "Digerati Indie Bundle: INK & HackyZack",
+    "id": "70010000013571",
+    "msrp": 14.99,
+    "sale_price": 2.24,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/d/digerati-indie-bundle-ink-and-hackyzack-switch/Switch_Digerati-Ink-HackyZack_box_eShop.png"
+  },
+  {
+    "title": "Hand Of Fate 2",
+    "id": "70010000001862",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hand-of-fate-2-switch/Switch_HandOfFate2_box_eShop.png"
+  },
+  {
+    "title": "Hard West",
+    "id": "70010000016291",
+    "msrp": 19.99,
+    "sale_price": 1.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hard-west-switch/Switch_HardWest_box_eShop.png"
+  },
+  {
+    "title": "Help Me Doctor",
+    "id": "70010000027422",
+    "msrp": 7.99,
+    "sale_price": 6.79,
+    "discount": "-15%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/help-me-doctor-switch/Switch_HelpMeDoctor_box_eShop.png"
+  },
+  {
+    "title": "Heroes of the Monkey Tavern",
+    "id": "70010000002442",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/heroes-of-the-monkey-tavern-switch/Switch_HeroesOfTheMonkeyTavern_box_eShop.png"
+  },
+  {
+    "title": "Hero Express",
+    "id": "70010000020206",
+    "msrp": 4.99,
+    "sale_price": 1.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hero-express-switch/Switch_HeroExpress_box_eShop.png"
+  },
+  {
+    "title": "Hidden",
+    "id": "70010000022159",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hidden-switch/Switch_Hidden_box_eShop.png"
+  },
+  {
+    "title": "Horror Pinball Bundle",
+    "id": "70010000024109",
+    "msrp": 8.99,
+    "sale_price": 4.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/horror-pinball-bundle-switch/Switch_HorrorPinball_box_eShop.png"
+  },
+  {
+    "title": "Horse Farm",
+    "id": "70010000026844",
+    "msrp": 19.99,
+    "sale_price": 14.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/horse-farm-switch/Switch_HorseFarm_box_eShop.png"
+  },
+  {
+    "title": "Hyperide",
+    "id": "70010000015565",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hyperide-switch/Switch_Hyperide_box_eShop.png"
+  },
+  {
+    "title": "Hyperide: Vector Raid",
+    "id": "70010000015064",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hyperide-vector-raid-switch/Switch_HyperideVectorRaid_box_eShop.png"
+  },
+  {
+    "title": "Hyper Sentinel",
+    "id": "70010000000747",
+    "msrp": 12.99,
+    "sale_price": 0.64,
+    "discount": "-95%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/h/hyper-sentinel-switch/Switch_HyperSentinel_box_eShop.png"
+  },
+  {
+    "title": "IHUGU",
+    "id": "70010000015296",
+    "msrp": 3.99,
+    "sale_price": 0.39,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/i/ihugu-switch/Switch_IHUGU_box_eShop.png"
+  },
+  {
+    "title": "Inside My Radio",
+    "id": "70010000014507",
+    "msrp": 9.99,
+    "sale_price": 2.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/i/inside-my-radio-switch/Switch_InsideMyRadio_box_eShop.png"
+  },
+  {
+    "title": "Island Maze",
+    "id": "70010000022833",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/i/island-maze-switch/Switch_IslandMaze_box_eShop.png"
+  },
+  {
+    "title": "Ivanych vs Eared Beast",
+    "id": "70010000015751",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/i/ivanych-vs-eared-beast-switch/Switch_IvanychvsEaredBeast_box_eShop.png"
+  },
+  {
+    "title": "Jeopardy!",
+    "id": "70010000010091",
+    "msrp": 19.99,
+    "sale_price": 7.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/jeopardy-switch/Switch_Jeopardy_box_eShop.png"
+  },
+  {
+    "title": "Jet Kave Adventure",
+    "id": "70010000016508",
+    "msrp": 19.99,
+    "sale_price": 13.99,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/jet-kave-adventure-switch/Switch_JetKaveAdventure_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Bad Dudes",
+    "id": "70010000001055",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-bad-dudes-switch/Switch_BadDudes_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Break Thru",
+    "id": "70010000001500",
+    "msrp": 6.99,
+    "sale_price": 1.74,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-break-thru-switch/Switch_JohnnyTurbosArcade-BreakThru_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Express Raider",
+    "id": "70010000001940",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-express-raider-switch/Switch_JohnnyTurbosArcade-ExpressRaider_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Fighter's History",
+    "id": "70010000012324",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-fighters-history-switch/Switch_JohnnyTurbosArcade-FightersHistory_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Gate Of Doom",
+    "id": "70010000004562",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-gate-of-doom-switch/Switch_JohnnyTurbosArcade-GatesOfDoom_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Heavy Barrel",
+    "id": "70010000001503",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-heavy-barrel-switch/Switch_JohnnyTurbosArcade-HeavyBarrel_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Heavy Burger",
+    "id": "70010000012484",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-heavy-burger-switch/Switch_JohnnyTurbosArcade-HeavyBurger_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade Joe and Mac Caveman Ninja",
+    "id": "70010000001506",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-joe-and-mac-caveman-ninja-switch/Switch_JohnnyTurbosArcade-CavemanNinja_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Joe and Mac Returns",
+    "id": "70010000001948",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-joe-and-mac-returns-switch/Switch_JohnnyTurbosArcade-JoeMacReturns_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Night Slashers",
+    "id": "70010000015110",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-night-slashers-switch/Switch_JohnnyTurbosArcade-NightSlashers_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Nitro Ball",
+    "id": "70010000001933",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-nitro-ball-switch/Switch_JohnnyTurbosArcade-NitroBall_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Shoot Out",
+    "id": "70010000012322",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-shoot-out-switch/Switch_JohnnyTurbosArcade-ShootOut_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Sly Spy",
+    "id": "70010000001926",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-sly-spy-switch/Switch_JohnnyTurbosArcade-SlySpy_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Super Burger Time",
+    "id": "70010000003902",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-super-burger-time-switch/Switch_JohnnyTurbosArcade-SuperBurgerTime_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Super Real Darwin",
+    "id": "70010000017104",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-super-real-darwin-switch/Switch_JohnnyTurbosArcade-SuperRealDarwin_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Two Crude Dudes",
+    "id": "70010000001922",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-two-crude-dudes-switch/Switch_JohnnyTurbosArcade-TwoCrudeDudes_box_eShop.png"
+  },
+  {
+    "title": "Johnny Turbo's Arcade: Wizard Fire",
+    "id": "70010000001954",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/johnny-turbos-arcade-wizard-fire-switch/Switch_JohnnyTurbosArcade-WizardFire_box_eShop.png"
+  },
+  {
+    "title": "Jurassic Pinball",
+    "id": "70010000009022",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/jurassic-pinball-switch/Switch_JurassicPinball_box_eShop.png"
+  },
+  {
+    "title": "Just Black Jack",
+    "id": "70010000022046",
+    "msrp": 1.99,
+    "sale_price": 0.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/just-black-jack-switch/Switch_JustBlackJack_box_eShop.png"
+  },
+  {
+    "title": "Just Dance® 2020",
+    "id": "70010000018623",
+    "msrp": 39.99,
+    "sale_price": 25.99,
+    "discount": "-35%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/just-dance-2020-switch/Switch_JD2020_box.png"
+  },
+  {
+    "title": "Just Glide",
+    "id": "70010000026279",
+    "msrp": 1.19,
+    "sale_price": 0.95,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/just-glide-switch/Switch_JustGlide_box_eShop.png"
+  },
+  {
+    "title": "Kid Tripp",
+    "id": "70010000001123",
+    "msrp": 3.99,
+    "sale_price": 0.79,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/k/kid-tripp-switch/Switch_KidTripp_box_eShop.png"
+  },
+  {
+    "title": "Kitty Powers' Matchmaker",
+    "id": "70010000026468",
+    "msrp": 14.99,
+    "sale_price": 11.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/k/kitty-powers-matchmaker-switch/Switch_KittyPowersMatchmaker_box_eShop.png"
+  },
+  {
+    "title": "Last Encounter",
+    "id": "70010000006066",
+    "msrp": 14.99,
+    "sale_price": 10.49,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/last-encounter-switch/Switch_LastEncounter_box_eShop.png"
+  },
+  {
+    "title": "Lazy Galaxy: Rebel Story",
+    "id": "70010000014542",
+    "msrp": 7.99,
+    "sale_price": 0.79,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lazy-galaxy-rebel-story-switch/Switch_LazyGalaxyRebelStory_box_eShop.png"
+  },
+  {
+    "title": "LEGO® CITY Undercover",
+    "id": "70010000000187",
+    "msrp": 29.99,
+    "sale_price": 11.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-city-undercover-switch/Switch_LEGOCityUndercover_box.png"
+  },
+  {
+    "title": "LEGO DC Super-Villains",
+    "id": "70010000007661",
+    "msrp": 59.99,
+    "sale_price": 23.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-dc-super-villains-switch/Switch_LEGODCSuperVillains_box.png"
+  },
+  {
+    "title": "LEGO Harry Potter Collection",
+    "id": "70010000013536",
+    "msrp": 49.99,
+    "sale_price": 19.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-harry-potter-collection-switch/Switch_LEGOHarryPotterCollection_box.png"
+  },
+  {
+    "title": "LEGO® Jurassic World",
+    "id": "70010000020489",
+    "msrp": 39.99,
+    "sale_price": 15.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-jurassic-world-switch/Switch_LegoJurassicWorld_box.png"
+  },
+  {
+    "title": "LEGO® Marvel Super Heroes 2",
+    "id": "70010000000730",
+    "msrp": 29.99,
+    "sale_price": 11.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-marvel-super-heroes-2-switch/Switch_LEGOMarvelSuperheroes2_box.png"
+  },
+  {
+    "title": "LEGO® NINJAGO® Movie Video Game",
+    "id": "70010000001532",
+    "msrp": 49.99,
+    "sale_price": 19.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-ninjago-movie-video-game-switch/Switch_LegoNinjago_box.png"
+  },
+  {
+    "title": "LEGO® The Incredibles",
+    "id": "70010000002381",
+    "msrp": 59.99,
+    "sale_price": 23.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-the-incredibles-switch/Switch_LEGOTheIncredibles_box.png"
+  },
+  {
+    "title": "LEGO® Jurassic World",
+    "id": "70010000020489",
+    "msrp": 39.99,
+    "sale_price": 15.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lego-jurassic-world-switch/Switch_LegoJurassicWorld_box.png"
+  },
+  {
+    "title": "Letter Quest Remastered",
+    "id": "70010000001888",
+    "msrp": 11.99,
+    "sale_price": 2.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/letter-quest-remastered-switch/Switch_LetterQuestRemastered_box_eShop.png"
+  },
+  {
+    "title": "Lydia",
+    "id": "70010000026439",
+    "msrp": 4.0,
+    "sale_price": 3,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/l/lydia-switch/Switch_Lydia_box_eShop.png"
+  },
+  {
+    "title": "M.A.C.E. Tower Defense",
+    "id": "70010000022155",
+    "msrp": 3.99,
+    "sale_price": 1.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/m-a-c-e-tower-defense-switch/Switch_MACETowerDefense_box_eShop.png"
+  },
+  {
+    "title": "Mad Bullets",
+    "id": "70010000020827",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mad-bullets-switch/Switch_MadBullets_box_eShop.png"
+  },
+  {
+    "title": "Mega Man® 11",
+    "id": "70010000003964",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mega-man-11-switch/Switch_MegaMan11_box.png"
+  },
+  {
+    "title": "Mega Man X Legacy Collection 2",
+    "id": "70010000003971",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mega-man-x-legacy-collection-2-switch/Switch_MegaManXLegacyCollection2_box_eShop.png"
+  },
+  {
+    "title": "Mega Man X Legacy Collection",
+    "id": "70010000003967",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mega-man-x-legacy-collection-switch/Switch_MegaManX-LegacyCollection_box_eShop.png"
+  },
+  {
+    "title": "Mega Man X Legacy Collection 2",
+    "id": "70010000003971",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mega-man-x-legacy-collection-2-switch/Switch_MegaManXLegacyCollection2_box_eShop.png"
+  },
+  {
+    "title": "Merchants of Kaidan",
+    "id": "70010000016738",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/merchants-of-kaidan-switch/Switch_MerchantsOfKaidan_box_eShop.png"
+  },
+  {
+    "title": "Metaloid: Origin",
+    "id": "70010000020171",
+    "msrp": 6.99,
+    "sale_price": 5.59,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/metaloid-origin-switch/Switch_MetaloidOrigin_box_eShop.png"
+  },
+  {
+    "title": "Metropolis: Lux Obscura",
+    "id": "70010000006148",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/metropolis-lux-obscura-switch/Switch_Metropolis-LuxObscura_box_eShop.png"
+  },
+  {
+    "title": "Milo's Quest",
+    "id": "70010000026510",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/milos-quest-switch/Switch_MilosQuest_box_eShop.png"
+  },
+  {
+    "title": "Mimic Hunter",
+    "id": "70010000015602",
+    "msrp": 4.99,
+    "sale_price": 0.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mimic-hunter-switch/Switch_MimicHunter_box_eShop.png"
+  },
+  {
+    "title": "Miniature - The Story Puzzle",
+    "id": "70010000021528",
+    "msrp": 3.99,
+    "sale_price": 1.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/miniature-the-story-puzzle-switch/Switch_Miniature_box_eShop.png"
+  },
+  {
+    "title": "Mitsurugi Kamui Hikae",
+    "id": "70010000013545",
+    "msrp": 11.9,
+    "sale_price": 7.14,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mitsurugi-kamui-hikae-switch/Switch_MitsurugiKamuiHikae_box_eShop.png"
+  },
+  {
+    "title": "Modern Tales: Age of Invention",
+    "id": "70010000017742",
+    "msrp": 14.99,
+    "sale_price": 7.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/modern-tales-age-of-invention-switch/Switch_ModernTalesAgeOfInvention_box_eShop.png"
+  },
+  {
+    "title": "MONKEY BARRELS",
+    "id": "70010000021629",
+    "msrp": 14.99,
+    "sale_price": 11.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/monkey-barrels-switch/Switch_MonkeyBarrels_box_eShop.png"
+  },
+  {
+    "title": "MONOPOLY® for Nintendo Switch",
+    "id": "70010000001662",
+    "msrp": 39.99,
+    "sale_price": 9.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/monopoly-for-nintendo-switch/Switch_Monopoly_box.png"
+  },
+  {
+    "title": "Monster Hunter Generations Ultimate",
+    "id": "70010000004642",
+    "msrp": 49.99,
+    "sale_price": 19.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/monster-hunter-generations-ultimate-switch/Switch_MonsterHunter-GenUltimate_box.png"
+  },
+  {
+    "title": "Monster Slayers",
+    "id": "70010000016391",
+    "msrp": 14.99,
+    "sale_price": 5.09,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/monster-slayers-switch/Switch_MonsterSlayers_box_eShop.png"
+  },
+  {
+    "title": "Moto Rush GT",
+    "id": "70010000016275",
+    "msrp": 14.99,
+    "sale_price": 1.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/moto-rush-gt-switch/Switch_MotoRushGT_box_eShop.png"
+  },
+  {
+    "title": "Mr Blaster",
+    "id": "70010000022258",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/mr-blaster-switch/Switch_MrBlaster_box_eShop.png"
+  },
+  {
+    "title": "My Brother Rabbit",
+    "id": "70010000014347",
+    "msrp": 14.99,
+    "sale_price": 1.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/my-brother-rabbit-switch/Switch_MyBrotherRabbit_box_eShop.png"
+  },
+  {
+    "title": "My Time at Portia",
+    "id": "70010000004651",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/m/my-time-at-portia-switch/Switch_MyTimeAtPortia_box.png"
+  },
+  {
+    "title": "NBA 2K20",
+    "id": "70010000019989",
+    "msrp": 59.99,
+    "sale_price": 29.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/nba-2k20-switch/Switch_NBA2K20_box.png"
+  },
+  {
+    "title": "NBA 2K Playgrounds 2",
+    "id": "70010000013730",
+    "msrp": 29.99,
+    "sale_price": 7.49,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/nba-2k-playgrounds-2-switch/Switch_NBA2KPlaygrounds2_box.png"
+  },
+  {
+    "title": "Nefarious",
+    "id": "70010000011396",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/nefarious-switch/Switch_Nefarious_box_eShop.png"
+  },
+  {
+    "title": "Neo Cab",
+    "id": "70010000018062",
+    "msrp": 19.99,
+    "sale_price": 14.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/neo-cab-switch/Switch_NeoCab_box_eShop.png"
+  },
+  {
+    "title": "Never Stop",
+    "id": "70010000009820",
+    "msrp": 4.99,
+    "sale_price": 3.49,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/never-stop-switch/Switch_NeverStop_box_eShop.png"
+  },
+  {
+    "title": "Nine Parchments",
+    "id": "70010000000688",
+    "msrp": 19.99,
+    "sale_price": 5.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/n/nine-parchments-switch/Switch_NineParchments_box_eShop.png"
+  },
+  {
+    "title": "Oceanhorn - Monster of Uncharted Seas",
+    "id": "70010000000452",
+    "msrp": 14.99,
+    "sale_price": 7.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/oceanhorn-monster-of-uncharted-seas-switch/Switch_Oceanhorn_box_eShop.png"
+  },
+  {
+    "title": "Oniken: Unstoppable Edition & Odallus: The Dark Call Bundle",
+    "id": "70010000019687",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/oniken-unstoppable-edition-odallus-the-dark-call-bundle-switch/Switch_Oniken-Odallus_box_eShop.png"
+  },
+  {
+    "title": "OKAMI HD",
+    "id": "70010000006415",
+    "msrp": 19.99,
+    "sale_price": 11.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/okami-hd-switch/Switch_OkamiHD_box_eShop.png"
+  },
+  {
+    "title": "Old School Racer 2",
+    "id": "70010000012392",
+    "msrp": 7.99,
+    "sale_price": 0.79,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/old-school-racer-2-switch/Switch_OldSchoolRacer2_box_eShop.png"
+  },
+  {
+    "title": "Omega Strike",
+    "id": "70010000013838",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/omega-strike-switch/Switch_OmegaStrike_box_eShop.png"
+  },
+  {
+    "title": "Omen Exitio: Plague",
+    "id": "70010000021260",
+    "msrp": 9.99,
+    "sale_price": 2.49,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/omen-exitio-plague-switch/Switch_OmenExitioPlague_box_eShop.png"
+  },
+  {
+    "title": "One Person Story",
+    "id": "70010000024864",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/one-person-story-switch/Switch_OnePersonStory_box_eShop.png"
+  },
+  {
+    "title": "Oniken: Unstoppable Edition & Odallus: The Dark Call Bundle",
+    "id": "70010000019687",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/oniken-unstoppable-edition-odallus-the-dark-call-bundle-switch/Switch_Oniken-Odallus_box_eShop.png"
+  },
+  {
+    "title": "Oniken: Unstoppable Edition & Odallus: The Dark Call Bundle",
+    "id": "70010000019687",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/oniken-unstoppable-edition-odallus-the-dark-call-bundle-switch/Switch_Oniken-Odallus_box_eShop.png"
+  },
+  {
+    "title": "Onimusha: Warlords",
+    "id": "70010000004346",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/onimusha-warlords-switch/Switch_OnimushaWarlords_box_eShop.png"
+  },
+  {
+    "title": "Overlanders",
+    "id": "70010000021525",
+    "msrp": 24.99,
+    "sale_price": 2.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/o/overlanders-switch/Switch_Overlanders_box_eShop.png"
+  },
+  {
+    "title": "Paper Train",
+    "id": "70010000022445",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/paper-train-switch/Switch_PaperTrain_box_eShop.png"
+  },
+  {
+    "title": "Paranautical Activity",
+    "id": "70010000011383",
+    "msrp": 7.99,
+    "sale_price": 1.19,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/paranautical-activity-switch/Switch_ParanauticalActivity_box_eShop.png"
+  },
+  {
+    "title": "Party Trivia",
+    "id": "70010000009750",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/party-trivia-switch/Switch_PartyTrivia_box_eShop.png"
+  },
+  {
+    "title": "Perseverance",
+    "id": "70010000024560",
+    "msrp": 4.99,
+    "sale_price": 3.49,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/perseverance-switch/Switch_Perseverance_box_eShop.png"
+  },
+  {
+    "title": "Persian Nights: Sands of Wonders",
+    "id": "70010000012136",
+    "msrp": 14.99,
+    "sale_price": 1.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/persian-nights-sands-of-wonders-switch/Switch_PersianNights_box_eShop.png"
+  },
+  {
+    "title": "Pet Shop Snacks",
+    "id": "70010000021908",
+    "msrp": 4.99,
+    "sale_price": 2.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pet-shop-snacks-switch/Switch_PetShopSnacks_box_eShop.png"
+  },
+  {
+    "title": "Phantaruk",
+    "id": "70010000013662",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/phantaruk-switch/Switch_Phantaruk_box_eShop.png"
+  },
+  {
+    "title": "Phantom Doctrine",
+    "id": "70010000020159",
+    "msrp": 19.99,
+    "sale_price": 1.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/phantom-doctrine-switch/Switch_PhantomDoctrine_box_eShop.png"
+  },
+  {
+    "title": "Phoenix Wright: Ace Attorney Trilogy",
+    "id": "70010000015846",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/phoenix-wright-ace-attorney-trilogy-switch/Switch_PhoenixWrightAceAttorneyTrilogy_box_eShop.png"
+  },
+  {
+    "title": "PIANISTA",
+    "id": "70010000009083",
+    "msrp": 24.99,
+    "sale_price": 19.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pianista-switch/Switch_PIANISTA_box_eShop.png"
+  },
+  {
+    "title": "Pic-a-Pix Deluxe",
+    "id": "70010000000778",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pic-a-pix-deluxe-switch/Switch_Pic-a-PixDeluxe_box_eShop.png"
+  },
+  {
+    "title": "Pic-a-Pix Pieces",
+    "id": "70010000015153",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pic-a-pix-pieces-switch/Switch_PicAPix-Pieces_box_eShop.png"
+  },
+  {
+    "title": "PICROSS LORD OF THE NAZARICK",
+    "id": "70010000020802",
+    "msrp": 9.99,
+    "sale_price": 6.99,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/picross-lord-of-the-nazarick-switch/Switch_PICROSSLORD_box_eShop.png"
+  },
+  {
+    "title": "Ping Pong Trick Shot EVOLUTION",
+    "id": "70010000016884",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/ping-pong-trick-shot-evolution-switch/Switch_PingPongTrickShotEVOLUTION_box_eShop.png"
+  },
+  {
+    "title": "Pipe Push Paradise",
+    "id": "70010000012272",
+    "msrp": 10.99,
+    "sale_price": 3.73,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pipe-push-paradise-switch/Switch_PipePushParadise_box_eShop.png"
+  },
+  {
+    "title": "Pirates: All Aboard!",
+    "id": "70010000006662",
+    "msrp": 5.99,
+    "sale_price": 0.99,
+    "discount": "-83%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pirates-all-aboard-switch/Switch_Pirates_box_eShopv2.png"
+  },
+  {
+    "title": "Pizza Parking",
+    "id": "70010000016634",
+    "msrp": 5.99,
+    "sale_price": 1.49,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/pizza-parking-switch/Switch_Pizza-Parking_box-eShop.png"
+  },
+  {
+    "title": "Plague Road",
+    "id": "70010000003485",
+    "msrp": 15,
+    "sale_price": 0.75,
+    "discount": "-95%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/plague-road-switch/Switch_PlagueRoad_box_eShop.png"
+  },
+  {
+    "title": "Please The Gods",
+    "id": "70010000025079",
+    "msrp": 9.99,
+    "sale_price": 8.49,
+    "discount": "-15%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/please-the-gods-switch/Switch_PTG_box_eShop.png"
+  },
+  {
+    "title": "Polyroll",
+    "id": "70010000022488",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/polyroll-switch/Switch_Polyroll_box_eShop.png"
+  },
+  {
+    "title": "3D Billiards - Pool & Snooker",
+    "id": "70010000015710",
+    "msrp": 19.99,
+    "sale_price": 15.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/3/3d-billiards-pool-and-snooker-switch/Switch_3DBilliards-PoolSnooker_box_eShop.png"
+  },
+  {
+    "title": "Puzzle Book",
+    "id": "70010000022260",
+    "msrp": 3.99,
+    "sale_price": 0.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/p/puzzle-book-switch/Switch_PuzzleBook_box_eShop.png"
+  },
+  {
+    "title": "Qbik",
+    "id": "70010000004793",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/q/qbik-switch/Switch_Qbik_box_eShop.png"
+  },
+  {
+    "title": "Quarantine Circular",
+    "id": "70010000012462",
+    "msrp": 5.99,
+    "sale_price": 4.79,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/q/quarantine-circular-switch/Switch_QuarantineCircular_box_eShop.png"
+  },
+  {
+    "title": "Queen's Quest 2: Stories of Forgotten Past",
+    "id": "70010000015731",
+    "msrp": 14.99,
+    "sale_price": 7.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/q/queens-quest-2-stories-of-forgotten-past-switch/Switch_QueensQuest2_box_eShop.png"
+  },
+  {
+    "title": "Quest Hunter",
+    "id": "70010000019462",
+    "msrp": 19.99,
+    "sale_price": 10.99,
+    "discount": "-45%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/q/quest-hunter-switch/Switch_QuestHunter_box_eShop.png"
+  },
+  {
+    "title": "Q-YO Blaster",
+    "id": "70010000020181",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/q/q-yo-blaster-switch/Switch_QYOBlaster_box_eShop.png"
+  },
+  {
+    "title": "#RaceDieRun",
+    "id": "70010000020465",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/racedierun-switch/Switch_RaceDieRun_box_eShop.png"
+  },
+  {
+    "title": "Rally Rock 'N Racing",
+    "id": "70010000019076",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rally-rock-n-racing-switch/Switch_RallyRockNRacing_box_eShop.png"
+  },
+  {
+    "title": "Rayman® Legends Definitive Edition",
+    "id": "70010000001017",
+    "msrp": 39.99,
+    "sale_price": 9.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rayman-legends-definitive-edition-switch/Switch_RaymanLegends_box.png"
+  },
+  {
+    "title": "Real Drift Racing",
+    "id": "70010000019982",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/real-drift-racing-switch/Switch_RealDriftRacing_box_eShop.png"
+  },
+  {
+    "title": "Realpolitiks",
+    "id": "70010000012886",
+    "msrp": 24.99,
+    "sale_price": 2.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/realpolitiks-switch/Switch_Realpolitiks_box_eShop.png"
+  },
+  {
+    "title": "Red Siren: Space Defense",
+    "id": "70010000017644",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/red-siren-space-defense-switch/Switch_RedSirenSpaceDefense_box_eShop.png"
+  },
+  {
+    "title": "Reknum",
+    "id": "70010000025130",
+    "msrp": 4.99,
+    "sale_price": 4.24,
+    "discount": "-15%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/reknum-switch/Switch_Reknum_box_eShop.png"
+  },
+  {
+    "title": "REKT! High Octane Stunts",
+    "id": "70010000010695",
+    "msrp": 5.99,
+    "sale_price": 2.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rekt-high-octane-stunts-switch/Switch_REKT_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil 5",
+    "id": "70010000015876",
+    "msrp": 29.99,
+    "sale_price": 19.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-5-switch/Switch_ResidentEvil5_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil 0",
+    "id": "70010000012850",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-0-switch/Switch_ResidentEvil0_box.png"
+  },
+  {
+    "title": "resident evil 4",
+    "id": "70010000012858",
+    "msrp": 29.99,
+    "sale_price": 19.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-4-switch/Switch_ResidentEvil4_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil 5",
+    "id": "70010000015876",
+    "msrp": 29.99,
+    "sale_price": 19.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-5-switch/Switch_ResidentEvil5_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil 6",
+    "id": "70010000015880",
+    "msrp": 29.99,
+    "sale_price": 19.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-6-switch/Switch_ResidentEvil6_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil Revelations",
+    "id": "70010000001421",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-revelations-switch/Switch_ResidentEvilRevelations_box_eShop.png"
+  },
+  {
+    "title": "Resident Evil Revelations 2",
+    "id": "70010000001515",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/resident-evil-revelations-2-switch/Switch_ResidentEvilRevelations2_box_eShop.png"
+  },
+  {
+    "title": "Reverse Crawl",
+    "id": "70010000018021",
+    "msrp": 12.99,
+    "sale_price": 4.41,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/reverse-crawl-switch/Switch_ReverseCrawl_box_eShop.png"
+  },
+  {
+    "title": "RIOT - Civil Unrest",
+    "id": "70010000011803",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/riot-civil-unrest-switch/Switch_RIOT_box.png"
+  },
+  {
+    "title": "RISK Global Domination",
+    "id": "70010000008819",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/risk-global-domination-switch/Switch_RISK-GlobalDomination_box_eShop.png"
+  },
+  {
+    "title": "Risky Rescue",
+    "id": "70010000015709",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/risky-rescue-switch/Switch_RiskyRescue_box_eShop.png"
+  },
+  {
+    "title": "Robothorium",
+    "id": "70010000015858",
+    "msrp": 14.99,
+    "sale_price": 2.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/robothorium-switch/Switch_Robothorium_box_eShop.png"
+  },
+  {
+    "title": "Rock 'N Racing Off Road DX",
+    "id": "70010000001395",
+    "msrp": 9.99,
+    "sale_price": 2.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rock-n-racing-off-road-dx-switch/Switch_RockNRacingOffRoadDX_box_eShop.png"
+  },
+  {
+    "title": "Rogue Singularity",
+    "id": "70010000009724",
+    "msrp": 14.99,
+    "sale_price": 1.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rogue-singularity-switch/Switch_RogueSingularity_box_eShop.png"
+  },
+  {
+    "title": "Roombo: First Blood",
+    "id": "70010000024091",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/roombo-first-blood-switch/Switch_Roombo_box_eShop.png"
+  },
+  {
+    "title": "Rotating Brave",
+    "id": "70010000011724",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/rotating-brave-switch/Switch_RotatingBrave_box_eShop.png"
+  },
+  {
+    "title": "Run the Fan",
+    "id": "70010000020848",
+    "msrp": 3.99,
+    "sale_price": 0.39,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/run-the-fan-switch/Switch_RunTheFan_box_eShop.png"
+  },
+  {
+    "title": "Safari Pinball",
+    "id": "70010000022636",
+    "msrp": 2.99,
+    "sale_price": 1.97,
+    "discount": "-34%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/safari-pinball-switch/Switch_SafariPinball_box_eShop.png"
+  },
+  {
+    "title": "Santa Tracker",
+    "id": "70010000015771",
+    "msrp": 2.99,
+    "sale_price": 0.89,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/santa-tracker-switch/Switch_SantaTracker_box_eShop.png"
+  },
+  {
+    "title": "Scribblenauts Mega Pack",
+    "id": "70010000010817",
+    "msrp": 39.99,
+    "sale_price": 15.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/scribblenauts-mega-pack-switch/Switch_Scribblenauts-MegaPack_box.png"
+  },
+  {
+    "title": "Scribblenauts: Showdown",
+    "id": "70010000000789",
+    "msrp": 39.99,
+    "sale_price": 15.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/scribblenauts-showdown-switch/Switch_Scribblenauts-Showdown_box.png"
+  },
+  {
+    "title": "Sea King Hunter",
+    "id": "70010000021344",
+    "msrp": 9.99,
+    "sale_price": 7.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sea-king-hunter-switch/Switch_SeaKingHunter_box_eShop.png"
+  },
+  {
+    "title": "Shadow Bug",
+    "id": "70010000002925",
+    "msrp": 8.99,
+    "sale_price": 6.29,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/shadow-bug-switch/Switch_ShadowBug_box_eShop.png"
+  },
+  {
+    "title": "Shakedown: Hawaii",
+    "id": "50010000048115",
+    "msrp": 14.99,
+    "sale_price": 9.99,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/3ds/s/shakedown-hawaii-3ds/3DS_ShakedownHawaii_box_eShop.png"
+  },
+  {
+    "title": "Sheep Patrol",
+    "id": "70010000026668",
+    "msrp": 1.99,
+    "sale_price": 0.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sheep-patrol-switch/Switch_SheepPatrol_box_eShop.png"
+  },
+  {
+    "title": "Shikhondo - Soul Eater",
+    "id": "70010000009202",
+    "msrp": 13.99,
+    "sale_price": 4.19,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/shikhondo-soul-eater-switch/Switch_Shikhondo-SoulEater_box_eShop.png"
+  },
+  {
+    "title": "Shut Eye",
+    "id": "70010000012102",
+    "msrp": 3.99,
+    "sale_price": 0.39,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/shut-eye-switch/Switch_ShutEye_box_eShop.png"
+  },
+  {
+    "title": "Skelly Selest",
+    "id": "70010000018894",
+    "msrp": 9.99,
+    "sale_price": 3.39,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/skelly-selest-switch/Switch_SkellySelest_box_eShop.png"
+  },
+  {
+    "title": "SkyScrappers",
+    "id": "70010000013467",
+    "msrp": 9.99,
+    "sale_price": 2.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/skyscrappers-switch/Switch_SkyScrappers_box_eShop.png"
+  },
+  {
+    "title": "SlabWell: The Quest For Kaktun's Alpaca",
+    "id": "70010000019185",
+    "msrp": 7.99,
+    "sale_price": 1.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/slabwell-the-quest-for-kaktuns-alpaca-switch/Switch_SlabWell_box_eShop.png"
+  },
+  {
+    "title": "Slain: Back From Hell",
+    "id": "70010000000685",
+    "msrp": 19.99,
+    "sale_price": 3.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/slain-back-from-hell-switch/Switch_SlainBackFromHell_box_eShop.png"
+  },
+  {
+    "title": "Slayaway Camp: Butcher's Cut",
+    "id": "70010000003828",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/slayaway-camp-butchers-cut-switch/Switch_SlayawayCamp-ButchersCut_box_eShop.png"
+  },
+  {
+    "title": "Soap Dodgem",
+    "id": "70010000006982",
+    "msrp": 1.99,
+    "sale_price": 0.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/soap-dodgem-switch/Switch_SoapDodgem_box_eShop.png"
+  },
+  {
+    "title": "Solo: Islands of the Heart",
+    "id": "70010000016369",
+    "msrp": 19.99,
+    "sale_price": 4.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/solo-islands-of-the-heart-switch/Switch_SoloIslandsOfTheHeart_box_eShop.png"
+  },
+  {
+    "title": "Sorry, James",
+    "id": "70010000023688",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sorry-james-switch/Switch_SorryJames_box_eShop.png"
+  },
+  {
+    "title": "Soulblight",
+    "id": "70010000011735",
+    "msrp": 14.99,
+    "sale_price": 6.74,
+    "discount": "-55%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/soulblight-switch/Switch_Soulblight_box_eShop.png"
+  },
+  {
+    "title": "South Park: The Fractured But Whole",
+    "id": "70010000001331",
+    "msrp": 59.99,
+    "sale_price": 19.99,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/south-park-the-fractured-but-whole-switch/Switch_SouthPark-TheFracturedButWhole_box.png"
+  },
+  {
+    "title": "South Park: The Stick of Truth",
+    "id": "70010000011252",
+    "msrp": 29.99,
+    "sale_price": 14.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/south-park-the-stick-of-truth-switch/Switch_SouthPark-TheStickOfTruth_box_eShop.png"
+  },
+  {
+    "title": "SpaceColorsRunner",
+    "id": "70010000022025",
+    "msrp": 5.99,
+    "sale_price": 1.19,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spacecolorsrunner-switch/Switch_SpaceColorsRunner_box_eShop.png"
+  },
+  {
+    "title": "Space Ribbon",
+    "id": "70010000013024",
+    "msrp": 4.99,
+    "sale_price": 0.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/space-ribbon-switch/Switch_SpaceRibbon_box_eShop.png"
+  },
+  {
+    "title": "Sparkle 3 Genesis",
+    "id": "70010000008268",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sparkle-3-genesis-switch/Switch_Sparkle3Genesis_box_eShop.png"
+  },
+  {
+    "title": "Sparkle 4 Tales",
+    "id": "70010000021037",
+    "msrp": 9.99,
+    "sale_price": 8.99,
+    "discount": "-10%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sparkle-4-tales-switch/Switch_Sparkle4Tales_box_eShop.png"
+  },
+  {
+    "title": "Sparkle ZERO",
+    "id": "70010000010083",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sparkle-zero-switch/Switch_SparkleZERO_box_eShop.png"
+  },
+  {
+    "title": "Spartan",
+    "id": "70010000006929",
+    "msrp": 3.99,
+    "sale_price": 1.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spartan-switch/Switch_Spartan_box_eShop.png"
+  },
+  {
+    "title": "Spheroids",
+    "id": "70010000008382",
+    "msrp": 7.99,
+    "sale_price": 0.99,
+    "discount": "-88%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spheroids-switch/Switch_Spheroids_box_eShop.png"
+  },
+  {
+    "title": "Spice and Wolf VR",
+    "id": "70010000021167",
+    "msrp": 24.99,
+    "sale_price": 17.49,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spice-and-wolf-vr-switch/Switch_SpiceandWolfVR_box_eShop.png"
+  },
+  {
+    "title": "Spiral Splatter",
+    "id": "70010000004624",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spiral-splatter-switch/Switch_SpiralSplatter_box_eShop.png"
+  },
+  {
+    "title": "Spirit Roots",
+    "id": "70010000022835",
+    "msrp": 6.99,
+    "sale_price": 2.48,
+    "discount": "-65%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spirit-roots-switch/Switch_SpiritRoots_box_eShop.png"
+  },
+  {
+    "title": "Spyro™ Reignited Trilogy",
+    "id": "70010000019384",
+    "msrp": 39.99,
+    "sale_price": 19.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/spyro-reignited-trilogy-switch/Switch_SpyroReignitedTrilogy_box.png"
+  },
+  {
+    "title": "StarDrone",
+    "id": "70010000014434",
+    "msrp": 9.99,
+    "sale_price": 6.99,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/stardrone-switch/Switch_StarDrone_box_eShop.png"
+  },
+  {
+    "title": "Starlink: Battle For Atlas Digital Edition",
+    "id": "70010000000662",
+    "msrp": 59.99,
+    "sale_price": 23.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/starlink-battle-for-atlas-digital-edition-switch/Switch_StarlinkBattleForAtlas_box_eShop.png"
+  },
+  {
+    "title": "Star Story: The Horizon Escape",
+    "id": "70010000010122",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/star-story-the-horizon-escape-switch/Switch_StarStory-HorizonEscape_box_eShop.png"
+  },
+  {
+    "title": "Steamburg",
+    "id": "70010000015010",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/steamburg-switch/Switch_Steamburg_box_eShop.png"
+  },
+  {
+    "title": "Stellar Interface",
+    "id": "70010000015754",
+    "msrp": 12.99,
+    "sale_price": 1.99,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/stellar-interface-switch/Switch_StellarInterface_box_eShop.png"
+  },
+  {
+    "title": "Straimium Immortaly",
+    "id": "70010000017622",
+    "msrp": 11.99,
+    "sale_price": 5.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/straimium-immortaly-switch/Switch_StraimiumImmortaly_box_eShop.png"
+  },
+  {
+    "title": "Street Basketball",
+    "id": "70010000018535",
+    "msrp": 5.99,
+    "sale_price": 0.59,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/street-basketball-switch/Switch_StreetBasketball_box_eShop.png"
+  },
+  {
+    "title": "Street Fighter 30th Anniversary Collection",
+    "id": "70010000003622",
+    "msrp": 39.99,
+    "sale_price": 14.79,
+    "discount": "-63%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/street-fighter-30th-anniversary-collection-switch/Switch_StreetFighter30thAnniv_box.jpg"
+  },
+  {
+    "title": "Sublevel Zero Redux",
+    "id": "70010000013019",
+    "msrp": 14.99,
+    "sale_price": 11.24,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sublevel-zero-redux-switch/Switch_SLZ_box_eShop.png"
+  },
+  {
+    "title": "Summer Sports Games",
+    "id": "70010000018708",
+    "msrp": 24.99,
+    "sale_price": 22.49,
+    "discount": "-10%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/summer-sports-games-switch/Switch_SummerSportsGames_box_eShop.png"
+  },
+  {
+    "title": "Super Arcade Soccer",
+    "id": "70010000007102",
+    "msrp": 6.99,
+    "sale_price": 2.93,
+    "discount": "-58%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-arcade-soccer-switch/Switch_SuperArcadeSoccer_box_eShop.png"
+  },
+  {
+    "title": "Super Battle Cards",
+    "id": "70010000026214",
+    "msrp": 5.99,
+    "sale_price": 4.19,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-battle-cards-switch/Switch_SuperBattleCards_box_eShop.png"
+  },
+  {
+    "title": "Super Blackjack Battle 2 Turbo Edition - The Card Warriors",
+    "id": "70010000009183",
+    "msrp": 7.99,
+    "sale_price": 0.99,
+    "discount": "-88%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-blackjack-battle-2-turbo-edition-the-card-warriors-switch/Switch_SuperBlackjackBattle2_box_eShop.png"
+  },
+  {
+    "title": "Super Blood Hockey",
+    "id": "70010000017620",
+    "msrp": 14.99,
+    "sale_price": 5.09,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-blood-hockey-switch/Switch_SuperBloodHockey_box_eShop.png"
+  },
+  {
+    "title": "Super Mutant Alien Assault",
+    "id": "70010000016686",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-mutant-alien-assault-switch/Switch_SuperMutantAlienAssault_box_eShop.png"
+  },
+  {
+    "title": "Super Ping Pong Trick Shot",
+    "id": "70010000001524",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-ping-pong-trick-shot-switch/Switch_SuperPingPongTrickShot_box_eShop.png"
+  },
+  {
+    "title": "Super Star Path",
+    "id": "70010000015358",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-star-path-switch/Switch_SuperStarPath_box_eShop.png"
+  },
+  {
+    "title": "Super Street: Racer",
+    "id": "70010000022218",
+    "msrp": 39.99,
+    "sale_price": 29.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-street-racer-switch/Switch_SuperStreetRacer_box.png"
+  },
+  {
+    "title": "Super Volley Blast",
+    "id": "70010000011800",
+    "msrp": 9.99,
+    "sale_price": 6.99,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/super-volley-blast-switch/Switch_SuperVolleyBlast_box_eShop.png"
+  },
+  {
+    "title": "Surfingers",
+    "id": "70010000015860",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/surfingers-switch/Switch_Surfingers_box-eShop.png"
+  },
+  {
+    "title": "Sushi Time!",
+    "id": "70010000018222",
+    "msrp": 4.99,
+    "sale_price": 2.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/sushi-time-switch/Switch_SushiTime_box_eShop.png"
+  },
+  {
+    "title": "Syder Reloaded",
+    "id": "70010000019702",
+    "msrp": 11.99,
+    "sale_price": 9.59,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/syder-reloaded-switch/Switch_Syder_box_eShop.png"
+  },
+  {
+    "title": "Tachyon Project",
+    "id": "70010000002424",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tachyon-project-switch/Switch_TachyonProject_box_eShop.png"
+  },
+  {
+    "title": "Tamashii",
+    "id": "70010000021752",
+    "msrp": 11.99,
+    "sale_price": 5.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tamashii-switch/Switch_Tamashii_box_eShop.png"
+  },
+  {
+    "title": "Tap Skaters",
+    "id": "70010000021571",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tap-skaters-switch/Switch_TapSkaters_box_eShop.png"
+  },
+  {
+    "title": "Tardy",
+    "id": "70010000017653",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tardy-switch/Switch_Tardy_box_eShop.png"
+  },
+  {
+    "title": "Teddy the Wanderer: Kayaking",
+    "id": "70010000015543",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/teddy-the-wanderer-kayaking-switch/Switch_TeddyTheWandererKayaking_box_eShop.png"
+  },
+  {
+    "title": "Teddy The Wanderer: Mountain Hike",
+    "id": "70010000018286",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/teddy-the-wanderer-mountain-hike-switch/Switch_Teddy-MountainHike_box_eShop.png"
+  },
+  {
+    "title": "TERRORHYTHM (TRRT)",
+    "id": "70010000021228",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/terrorhythm-trrt-switch/Switch_TERRORHYTHM_box_eShop.png"
+  },
+  {
+    "title": "Tetsumo Party",
+    "id": "70010000016699",
+    "msrp": 4.99,
+    "sale_price": 2.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tetsumo-party-switch/Switch_TetsumoParty_box_eShop.png"
+  },
+  {
+    "title": "The Adventures of Elena Temple: Definitive Edition",
+    "id": "70010000026289",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-adventures-of-elena-temple-definitive-edition-switch/Switch_TheAdventuresofElenaTemple_box_eShop.png"
+  },
+  {
+    "title": "The Aquatic Adventure of the Last Human",
+    "id": "70010000014095",
+    "msrp": 12.99,
+    "sale_price": 3.89,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-aquatic-adventure-of-the-last-human-switch/Switch_AquaticAdventure_box_eShop.png"
+  },
+  {
+    "title": "The Childs Sight",
+    "id": "70010000021016",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-childs-sight-switch/Switch_TheChildsSight_box_eShop.png"
+  },
+  {
+    "title": "The Church in the Darkness",
+    "id": "70010000018064",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-church-in-the-darkness-switch/Switch_TheChurchintheDarkness_box_eShop.png"
+  },
+  {
+    "title": "The Count Lucanor",
+    "id": "70010000001218",
+    "msrp": 14.99,
+    "sale_price": 2.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-count-lucanor-switch/Switch_TheCountLucanor_box_eShop.png"
+  },
+  {
+    "title": "The Drama Queen Murder",
+    "id": "70010000021363",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-drama-queen-murder-switch/Switch_TheDramaQueenMurder_box_eShop.png"
+  },
+  {
+    "title": "The Journey Down: Chapter One",
+    "id": "70010000010799",
+    "msrp": 9.99,
+    "sale_price": 5.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-journey-down-chapter-one-switch/Switch_TheJourneyDownChapterOne_box_eshop.png"
+  },
+  {
+    "title": "The LEGO Movie 2 Videogame",
+    "id": "70010000013359",
+    "msrp": 39.99,
+    "sale_price": 15.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-lego-movie-2-videogame-switch/Switch_LEGOMovie2_box.png"
+  },
+  {
+    "title": "The Mahjong Huntress",
+    "id": "70010000014062",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-mahjong-huntress-switch/Switch_TheMahjongHuntress_box_eShop.png"
+  },
+  {
+    "title": "The Mystery of Woolley Mountain",
+    "id": "70010000016344",
+    "msrp": 12.99,
+    "sale_price": 1.29,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-mystery-of-woolley-mountain-switch/Switch_TheMysteryOfWoolleyMountain_box_eShop.png"
+  },
+  {
+    "title": "Roombo: First Blood",
+    "id": "70010000024091",
+    "msrp": 4.99,
+    "sale_price": 3.99,
+    "discount": "-20%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/r/roombo-first-blood-switch/Switch_Roombo_box_eShop.png"
+  },
+  {
+    "title": "The Sinking City",
+    "id": "70010000019162",
+    "msrp": 49.99,
+    "sale_price": 24.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-sinking-city-switch/Switch_TheSinkingCity_box_eShop.png"
+  },
+  {
+    "title": "The Stillness of the Wind",
+    "id": "70010000013242",
+    "msrp": 12.99,
+    "sale_price": 6.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-stillness-of-the-wind-switch/Switch_TheStillnessOfTheWind_box_eShop.png"
+  },
+  {
+    "title": "The Turing Test",
+    "id": "70010000022731",
+    "msrp": 19.99,
+    "sale_price": 16.99,
+    "discount": "-15%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/the-turing-test-switch/Switch_TurningTest_box_eShop.png"
+  },
+  {
+    "title": "Thief Simulator",
+    "id": "70010000019818",
+    "msrp": 19.99,
+    "sale_price": 1.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/thief-simulator-switch/Switch_ThiefSimulator_box_eShop.png"
+  },
+  {
+    "title": "Think of the Children",
+    "id": "70010000010065",
+    "msrp": 12.99,
+    "sale_price": 2.59,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/think-of-the-children-switch/Switch_ThinkOfTheChildren_box_eShop.png"
+  },
+  {
+    "title": "Three Fourths Home: Extended Edition",
+    "id": "70010000009832",
+    "msrp": 8.99,
+    "sale_price": 1.34,
+    "discount": "-85%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/three-fourths-home-extended-edition-switch/Switch_ThreeFourthsHome_box_eShop.png"
+  },
+  {
+    "title": "Tic-Tac-Letters by POWGI",
+    "id": "70010000022619",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tic-tac-letters-by-powgi-switch/Switch_TicTacLetters_box_eShop.png"
+  },
+  {
+    "title": "Timberman VS",
+    "id": "70010000004796",
+    "msrp": 1.99,
+    "sale_price": 0.19,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/timberman-vs-switch/Switch_TimbermanVS_box_eShop.png"
+  },
+  {
+    "title": "Tiny Hands Adventure",
+    "id": "70010000013225",
+    "msrp": 7.99,
+    "sale_price": 0.79,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tiny-hands-adventure-switch/Switch_TinyHandsAdventure_box_eShop.png"
+  },
+  {
+    "title": "Titans Pinball",
+    "id": "70010000020846",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/titans-pinball-switch/Switch_TitansPinball_box_eShop.png"
+  },
+  {
+    "title": "Toby: The Secret Mine",
+    "id": "70010000012432",
+    "msrp": 11.99,
+    "sale_price": 0.99,
+    "discount": "-92%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/toby-the-secret-mine-switch/Switch_Toby-TheSecretMine_box_eShop.png"
+  },
+  {
+    "title": "Touchdown Pinball",
+    "id": "70010000027637",
+    "msrp": 3,
+    "sale_price": 1.98,
+    "discount": "-34%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/touchdown-pinball-switch/Switch_TouchdownPinball_box_eShop.png"
+  },
+  {
+    "title": "Tower of Babel - no mercy",
+    "id": "70010000026371",
+    "msrp": 9.99,
+    "sale_price": 8.99,
+    "discount": "-10%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/tower-of-babel-no-mercy-switch/Switch_TowerofBabel_box_eShop.png"
+  },
+  {
+    "title": "Trials Rising Standard Edition",
+    "id": "70010000007866",
+    "msrp": 24.99,
+    "sale_price": 9.99,
+    "discount": "-60%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/trials-rising-standard-edition-switch/Switch_TrialsRising-StandardEd_box.png"
+  },
+  {
+    "title": "Trine 2: Complete Story",
+    "id": "70010000009110",
+    "msrp": 16.99,
+    "sale_price": 5.09,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/trine-2-complete-story-switch/Switch_Trine2-Complete_box_eShop.png"
+  },
+  {
+    "title": "Trine 3: The Artifacts of Power",
+    "id": "70010000009112",
+    "msrp": 19.99,
+    "sale_price": 5.99,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/trine-3-the-artifacts-of-power-switch/Switch_Trine3_box_eShop.png"
+  },
+  {
+    "title": "Trine Enchanted Edition",
+    "id": "70010000009108",
+    "msrp": 14.99,
+    "sale_price": 4.49,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/trine-enchanted-edition-switch/Switch_TrineEnchantedEdition_box_eShop.png"
+  },
+  {
+    "title": "TRIVIAL PURSUIT Live!",
+    "id": "70010000008722",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/t/trivial-pursuit-live-switch/Switch_TrivialPursuitLive_box_eShop.png"
+  },
+  {
+    "title": "Unbox: Newbie's Adventure",
+    "id": "70010000001314",
+    "msrp": 29.99,
+    "sale_price": 5.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/u/unbox-newbies-adventure-switch/Switch_Unbox_box.png"
+  },
+  {
+    "title": "Uncanny Valley",
+    "id": "70010000014557",
+    "msrp": 9.99,
+    "sale_price": 3.39,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/u/uncanny-valley-switch/Switch_UncannyValley_box_eShop.png"
+  },
+  {
+    "title": "Unexplored",
+    "id": "70010000006042",
+    "msrp": 15.0,
+    "sale_price": 4.5,
+    "discount": "-70%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/u/unexplored-switch/Switch_Unexplored_box_eShop.png"
+  },
+  {
+    "title": "Vaporum",
+    "id": "70010000015227",
+    "msrp": 24.99,
+    "sale_price": 8.74,
+    "discount": "-65%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/vaporum-switch/Switch_Vaporum_box_eShop.png"
+  },
+  {
+    "title": "Venture Kid",
+    "id": "70010000018779",
+    "msrp": 10.0,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/venture-kid-switch/Switch_VentureKid_box_eShop.png"
+  },
+  {
+    "title": "Verlet Swing",
+    "id": "70010000017580",
+    "msrp": 14.99,
+    "sale_price": 5.09,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/verlet-swing-switch/Switch_VerletSwing_box_eShop.png"
+  },
+  {
+    "title": "Vertical Drop Heroes HD",
+    "id": "70010000010597",
+    "msrp": 9.99,
+    "sale_price": 1.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/vertical-drop-heroes-hd-switch/Switch_VerticalDropHeroesHD_box_eShop.png"
+  },
+  {
+    "title": "Violett",
+    "id": "70010000001587",
+    "msrp": 9.99,
+    "sale_price": 0.99,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/violett-switch/Switch_Violett_box_eShop.png"
+  },
+  {
+    "title": "Viviette",
+    "id": "70010000015364",
+    "msrp": 9.99,
+    "sale_price": 6.99,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/viviette-switch/Switch_Viviette_box_eShop.png"
+  },
+  {
+    "title": "Vortex Attack EX",
+    "id": "70010000021724",
+    "msrp": 9.99,
+    "sale_price": 5.99,
+    "discount": "-40%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/v/vortex-attack-ex-switch/Switch_VortexAttackEX_box_eShop.png"
+  },
+  {
+    "title": "Warplanes: WW2 Dogfight",
+    "id": "70010000016668",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/warplanes-ww2-dogfight-switch/Switch_Warplanes-WW2Dogfight_box_eShop.png"
+  },
+  {
+    "title": "Wheel of Fortune",
+    "id": "70010000010066",
+    "msrp": 19.99,
+    "sale_price": 9.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/wheel-of-fortune-switch/Switch_WheelOfFortune_box_eShop.png"
+  },
+  {
+    "title": "Winter Sports Games",
+    "id": "70010000018764",
+    "msrp": 24.99,
+    "sale_price": 22.49,
+    "discount": "-10%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/winter-sports-games-switch/Switch_WinterSportsGames_box_eShop.png"
+  },
+  {
+    "title": "Woodle Tree 2: Deluxe",
+    "id": "70010000021184",
+    "msrp": 12.99,
+    "sale_price": 9.09,
+    "discount": "-30%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/woodle-tree-2-deluxe-switch/Switch_WoodleTree2Deluxe_box_eShop.png"
+  },
+  {
+    "title": " Word Mesh",
+    "id": "70010000020463",
+    "msrp": 6.99,
+    "sale_price": 3.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/word-mesh-switch/Switch_WordMesh_box_eShop.png"
+  },
+  {
+    "title": "Word Puzzles by POWGI",
+    "id": "70010000012436",
+    "msrp": 9.99,
+    "sale_price": 4.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/word-puzzles-by-powgi-switch/Switch_WordPuzzlesByPOWGI_box_eShop.png"
+  },
+  {
+    "title": "Word Search by POWGI",
+    "id": "70010000004358",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/word-search-by-powgi-switch/Switch_WordSearchByPOWGI_box_eShop.png"
+  },
+  {
+    "title": "Word Sudoku by POWGI",
+    "id": "70010000014719",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/word-sudoku-by-powgi-switch/Switch_WordSudoku_box_eShop.png"
+  },
+  {
+    "title": "Wordsweeper by POWGI",
+    "id": "70010000021650",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/wordsweeper-by-powgi-switch/Switch_Wordsweeper_box_eShop.png"
+  },
+  {
+    "title": "Word Wheel by POWGI",
+    "id": "70010000019810",
+    "msrp": 7.99,
+    "sale_price": 3.99,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/word-wheel-by-powgi-switch/Switch_WordWheelByPOWGI_box_eShop.png"
+  },
+  {
+    "title": "World Soccer Pinball",
+    "id": "70010000010513",
+    "msrp": 2.99,
+    "sale_price": 1.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/world-soccer-pinball-switch/Switch_WorldSoccerPinball_box_eShop.png"
+  },
+  {
+    "title": "Worms W.M.D",
+    "id": "70010000001330",
+    "msrp": 29.99,
+    "sale_price": 10.19,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/worms-wmd-switch/Switch_WormsWMD_box_eShop.png"
+  },
+  {
+    "title": "WWE 2K18",
+    "id": "70010000000970",
+    "msrp": 59.99,
+    "sale_price": 19.79,
+    "discount": "-67%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/w/wwe-2k18-switch/Switch_WWE2K18_box.png"
+  },
+  {
+    "title": "Xenon Racer",
+    "id": "70010000012609",
+    "msrp": 39.99,
+    "sale_price": 9.99,
+    "discount": "-75%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/x/xenon-racer-switch/Switch_XenonRacer_box.png"
+  },
+  {
+    "title": "XenoRaptor",
+    "id": "70010000021221",
+    "msrp": 14.99,
+    "sale_price": 7.49,
+    "discount": "-50%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/x/xenoraptor-switch/Switch_Xenoraptor_box_eShop.png"
+  },
+  {
+    "title": "Yellow Fins",
+    "id": "70010000023002",
+    "msrp": 4.99,
+    "sale_price": 0.99,
+    "discount": "-80%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/y/yellow-fins-switch/Switch_YellowFins_box_eShop.png"
+  },
+  {
+    "title": "Yoku's Island Express",
+    "id": "70010000001576",
+    "msrp": 19.99,
+    "sale_price": 6.79,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/y/yokus-island-express-switch/Switch_YokusIslandExpress_box.png"
+  },
+  {
+    "title": "Yooka-Laylee",
+    "id": "70010000003267",
+    "msrp": 39.99,
+    "sale_price": 13.59,
+    "discount": "-66%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/y/yooka-laylee-switch/Switch_YookaLaylee_box_eShop.png"
+  },
+  {
+    "title": "Yooka-Laylee and the Impossible Lair",
+    "id": "70010000018416",
+    "msrp": 29.99,
+    "sale_price": 20.09,
+    "discount": "-33%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/y/yooka-laylee-and-the-impossible-lair-switch/Switch_Yooka-Laylee-Impossible_box.png"
+  },
+  {
+    "title": "Zombillie",
+    "id": "70010000007940",
+    "msrp": 4.99,
+    "sale_price": 0.49,
+    "discount": "-90%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/z/zombillie-switch/Switch_Zombillie_box_eShop.png"
+  },
+  {
+    "title": "Zumba® Burn It Up!",
+    "id": "70010000015893",
+    "msrp": 39.99,
+    "sale_price": 29.99,
+    "discount": "-25%",
+    "art": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/z/zumba-burn-it-up-switch/Switch_Zumba_box.png"
+  }
+]
