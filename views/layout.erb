@@ -2,8 +2,10 @@
 <html style='max-width:100%;overflow-x:hidden;'>
 <head>
   <title>Switch Steals</title>
-  <link rel='shortcut icon' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'>
-	<link rel='icon' sizes='16x16 32x32 64x64' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'>
+  <%# <link rel='shortcut icon' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'>
+	<link rel='icon' sizes='16x16 32x32 64x64' href='https://middle.pngfans.com/20190512/cw/nintendo-switch-logo-png-nintendo-switch-video-gam-fdd95f95c92f8e14.jpg'> %>
+  <link rel='icon' sizes='16x16 32x32 64x64' href='img/Hopstarter-3d-Cartoon-Vol3-Nintendo-SNES.ico'>
+
   <!--Responsive Meta Tag-->
   <meta name='viewport' content='width=device-width, initial-scale=1.0'/>  
   <!-- Bootstrap CSS -->
@@ -17,9 +19,12 @@
     <!-- Header -->
     <div class="jumbotron" style='background-color:#DFF1F7;text-align:center;'>
       <img src='img/switch_steals.png' style='height:10em;'>
-      <p class="lead">What's New | Week of 1/3/2020</p>
+      <p class="lead">What's New | Week of 2/7/2020</p>
     </div>
 
+    <!-- Horizontal Rule -->
+    <span style='padding-left:1rem;font-style:italic;color:#C04454;'><%= "#{eshop_games.count} GAMES" %></span>
+    <hr />
     <!-- Eshop -->
     <div class='row'>
       <% @data_hash.each do |hash| %>
