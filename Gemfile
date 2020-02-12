@@ -20,6 +20,11 @@ group :development do
   gem 'shotgun' 
 end 
 
+group :production do
+  # A Ruby/Rack web server built for concurrency
+  gem 'puma'
+end 
+
 group :test do 
   # Behaviour Driven Development for Ruby
   gem 'rspec'
