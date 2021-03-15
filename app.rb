@@ -3,7 +3,7 @@ require 'open-uri'
 require 'openssl'
 require 'nokogiri'
 require 'nintendo_eshop'
-require 'pry'
+# require 'pry'
 
 # overwrite nintendo_eshop method due to some responses have nil dates 
 # `self.release_date = Date.parse(result.dig(:releaseDateMask))`
